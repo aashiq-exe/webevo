@@ -2335,14 +2335,14 @@ input, select, textarea {
 				width: 100%;
 			}
 
-			.image.phone .inner, .image.phone:before, .image.phone:after {
+			/*.image.phone .inner, .image.phone:before, .image.phone:after {
 				display: block;
 				border: solid 2px rgba(255, 255, 255, 0.25);
 			}
 
 			.image.phone .inner {
 				position: relative;
-			}
+			}*/
 
 				.image.phone .inner:before, .image.phone .inner:after {
 					content: '';
@@ -2392,9 +2392,9 @@ input, select, textarea {
 			box-shadow: none;
 		}
 
-			.image.phone .inner, .image.phone:before, .image.phone:after {
+			/*.image.phone .inner, .image.phone:before, .image.phone:after {
 				border-color: #e6e6e6;
-			}
+			}*/
 
 			.image.phone .inner:before {
 				background: #e6e6e6;
@@ -3753,9 +3753,9 @@ input, select, textarea {
 				box-shadow: none;
 			}
 
-				#header .image.phone .inner, #header .image.phone:before, #header .image.phone:after {
+			/*	#header .image.phone .inner, #header .image.phone:before, #header .image.phone:after {
 					border-color: rgba(255, 255, 255, 0.25);
-				}
+				}*/
 
 				#header .image.phone .inner:before {
 					background: rgba(255, 255, 255, 0.25);
